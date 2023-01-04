@@ -1,0 +1,10 @@
+[theme]
+#base="light"
+#primaryColor="#fc6e44"
+#textColor="#243039"
+
+[theme]
+base="dark"
+primaryColor="#fc6e44"
+textColor="#ffffff"
+
